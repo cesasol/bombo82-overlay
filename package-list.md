@@ -14,6 +14,7 @@
     - dev-util/idea-ultimate
     - dev-util/phpstorm
     - dev-util/pycharm-professional
+    - dev-util/rider
     - dev-util/rubymine
     - dev-util/webstorm
 - games-rpg:
